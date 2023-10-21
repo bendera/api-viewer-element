@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "analyze": "cem analyze --litelement --globs 'src/*.ts'"
+    "analyze": "cem analyze --litelement --globs \"src/*.ts\""
   },
   "dependencies": {
     "lit": "^2.0.0",

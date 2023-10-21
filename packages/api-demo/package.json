@@ -19,7 +19,7 @@
   "module": "lib/api-demo.js",
   "type": "module",
   "scripts": {
-    "analyze": "cem analyze --litelement --globs 'src/*.ts'",
+    "analyze": "cem analyze --litelement --globs \"src/*.ts\"",
     "size": "size-limit"
   },
   "files": [
